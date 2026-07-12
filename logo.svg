@@ -1,0 +1,44 @@
+<svg viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" width="800" height="240">
+
+  <!-- MARK -->
+  <!-- Base post -->
+  <line x1="40" y1="88" x2="40" y2="102" stroke="#1a2c4e" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- Base foot -->
+  <line x1="29" y1="102" x2="51" y2="102" stroke="#1a2c4e" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Springboard plank -->
+  <path d="M 40,88 C 56,83 78,67 108,32" stroke="#1a2c4e" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <!-- Plank depth shadow -->
+  <path d="M 40,93 C 57,88 80,72 110,37" stroke="#243d6a" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.2"/>
+  <!-- Launching circle -->
+  <circle cx="116" cy="22" r="13" fill="#c9920e"/>
+  <!-- Trajectory dots -->
+  <circle cx="129" cy="10" r="5" fill="#e8a912" opacity="0.52"/>
+  <circle cx="137" cy="2" r="3" fill="#e8a912" opacity="0.26"/>
+
+  <!-- WORDMARK -->
+  <!-- Springboard -->
+  <text x="158" y="58"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="38"
+    font-weight="bold"
+    fill="#1a2c4e"
+    letter-spacing="0.5">Springboard</text>
+
+  <!-- Funding Group -->
+  <text x="160" y="80"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13"
+    fill="#1a2c4e"
+    letter-spacing="5"
+    opacity="0.6">FUNDING GROUP</text>
+
+  <!-- Tagline -->
+  <text x="161" y="97"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10"
+    fill="#1a2c4e"
+    letter-spacing="1.5"
+    opacity="0.42"
+    font-style="italic">Minnesota Education Grant Writing</text>
+
+</svg>
